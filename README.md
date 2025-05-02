@@ -1,2 +1,6 @@
-# 1-assignment
+# 1-assignments of Military Production Training
+
+
+Sources and related content
+
 paython
